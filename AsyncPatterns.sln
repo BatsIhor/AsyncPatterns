@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPatterns", "AsyncPatterns\AsyncPatterns.csproj", "{C87FA940-6037-4152-B452-45775421F257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgrammingModel_APM", "AsynchronousProgrammingModel_APM\AsynchronousProgrammingModel_APM.csproj", "{0DBD0A9A-F6EF-451E-AA48-BA73660285F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87FA940-6037-4152-B452-45775421F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87FA940-6037-4152-B452-45775421F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87FA940-6037-4152-B452-45775421F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87FA940-6037-4152-B452-45775421F257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBD0A9A-F6EF-451E-AA48-BA73660285F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBD0A9A-F6EF-451E-AA48-BA73660285F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBD0A9A-F6EF-451E-AA48-BA73660285F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBD0A9A-F6EF-451E-AA48-BA73660285F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
